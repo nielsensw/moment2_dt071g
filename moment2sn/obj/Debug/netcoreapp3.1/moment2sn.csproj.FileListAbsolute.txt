@@ -1,0 +1,12 @@
+/Users/sallynielsen/Projects/moment2sn/moment2sn/bin/Debug/netcoreapp3.1/moment2sn.deps.json
+/Users/sallynielsen/Projects/moment2sn/moment2sn/bin/Debug/netcoreapp3.1/moment2sn.runtimeconfig.json
+/Users/sallynielsen/Projects/moment2sn/moment2sn/bin/Debug/netcoreapp3.1/moment2sn.runtimeconfig.dev.json
+/Users/sallynielsen/Projects/moment2sn/moment2sn/bin/Debug/netcoreapp3.1/moment2sn.dll
+/Users/sallynielsen/Projects/moment2sn/moment2sn/bin/Debug/netcoreapp3.1/moment2sn.pdb
+/Users/sallynielsen/Projects/moment2sn/moment2sn/obj/Debug/netcoreapp3.1/moment2sn.csprojAssemblyReference.cache
+/Users/sallynielsen/Projects/moment2sn/moment2sn/obj/Debug/netcoreapp3.1/moment2sn.AssemblyInfoInputs.cache
+/Users/sallynielsen/Projects/moment2sn/moment2sn/obj/Debug/netcoreapp3.1/moment2sn.AssemblyInfo.cs
+/Users/sallynielsen/Projects/moment2sn/moment2sn/obj/Debug/netcoreapp3.1/moment2sn.csproj.CoreCompileInputs.cache
+/Users/sallynielsen/Projects/moment2sn/moment2sn/obj/Debug/netcoreapp3.1/moment2sn.dll
+/Users/sallynielsen/Projects/moment2sn/moment2sn/obj/Debug/netcoreapp3.1/moment2sn.pdb
+/Users/sallynielsen/Projects/moment2sn/moment2sn/obj/Debug/netcoreapp3.1/moment2sn.genruntimeconfig.cache

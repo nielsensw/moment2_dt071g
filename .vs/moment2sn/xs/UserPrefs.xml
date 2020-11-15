@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{885E0512-A5EA-4C4C-922B-5911E23260E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="moment2sn/Program.cs">
+    <Files>
+      <File FileName="moment2sn/Program.cs" Line="122" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="moment2sn" expanded="True">
+            <Node name="moment2sn" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.moment2sn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
